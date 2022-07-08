@@ -1,11 +1,7 @@
 # SeniorxUiStarter
 
 Este projeto tem o objetivo de fornecer uma versão inicial já configurada para realizar as extensões de front-end da SeniorX Platform, seguindo com o mesmo padrão visual da SeniorX.
-- versão de aplicativos
-```
-Angular CLI: 8.3.25
-Node: 12.0.0
-```
+
 - Utiliza as bibliotecas da Senior, assim como os componentes do PrimeNG
 
 ## Instruções de instalação
@@ -13,7 +9,11 @@ Realizar um **clone** deste projeto, exemplo:
 ```
 git clone https://github.com/trentinrossi/seniorx-ui-starter.git nome-do-meu-projeto
 ```
-
+- versão de aplicativos
+```
+Angular CLI: 8.3.25
+Node: 12.0.0
+```
 Abrir a pasta do projeto pelo VSCode e digitar o comando na pasta raiz:
 ```
 npm install
